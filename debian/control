@@ -1,0 +1,25 @@
+Source: golang-golang-x-term
+Maintainer: Debian Go Packaging Team <team+pkg-go@tracker.debian.org>
+Uploaders: Arnaud Rebillout <elboulangero@gmail.com>,
+           Anthony Fok <foka@debian.org>
+Section: golang
+Testsuite: autopkgtest-pkg-go
+Priority: optional
+Build-Depends: debhelper-compat (= 13),
+               dh-golang,
+               golang-any,
+               golang-golang-x-sys-dev (>= 0.0~git20210615.665e8c7),
+Standards-Version: 4.5.1
+Vcs-Browser: https://salsa.debian.org/go-team/packages/golang-golang-x-term
+Vcs-Git: https://salsa.debian.org/go-team/packages/golang-golang-x-term.git
+Homepage: https://godoc.org/golang.org/x/term
+Rules-Requires-Root: no
+XS-Go-Import-Path: golang.org/x/term
+
+Package: golang-golang-x-term-dev
+Architecture: all
+Multi-Arch: foreign
+Depends: golang-golang-x-sys-dev (>= 0.0~git20210615.665e8c7),
+         ${misc:Depends}
+Description: Go terminal and console support (library)
+ This repository provides Go terminal and console support packages.

@@ -1,0 +1,21 @@
+golang-golang-x-term (0.0~git20210615.6886f2d-1) unstable; urgency=medium
+
+  * New upstream version 0.0~git20210615.6886f2d
+  * Bump dependency on golang-golang-x-sys-dev to (>= 0.0~git20210615.665e8c7)
+  * Mark library package with "Multi-Arch: foreign"
+  * Add myself to the list of Uploaders
+
+ -- Anthony Fok <foka@debian.org>  Mon, 06 Sep 2021 12:48:06 -0600
+
+golang-golang-x-term (0.0~git20201210.2321bbc-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream snapshot.
+
+ -- Shengjing Zhu <zhsj@debian.org>  Tue, 22 Dec 2020 22:49:46 +0800
+
+golang-golang-x-term (0.0~git20201207.ee85cb9-1) unstable; urgency=medium
+
+  * Initial release (Closes: #977019).
+
+ -- Arnaud Rebillout <elboulangero@gmail.com>  Thu, 10 Dec 2020 23:37:02 +0800
