@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: golang.org/x/term
 Source: https://go.googlesource.com/term
+Upstream-Name: golang.org/x/term
 Comment:
  https://github.com/golang/term
 
