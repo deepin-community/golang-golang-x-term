@@ -1,3 +1,46 @@
+golang-golang-x-term (0.20.0-1) unstable; urgency=medium
+
+  * New upstream version 0.20.0
+  * Bump versioned dependency as per go.mod
+
+ -- Anthony Fok <foka@debian.org>  Mon, 20 May 2024 18:35:45 -0600
+
+golang-golang-x-term (0.19.0-1) unstable; urgency=medium
+
+  * New upstream version 0.19.0
+  * Bump versioned dependencies as per go.mod
+  * Bump Standards-Version to 4.7.0 (no change)
+
+ -- Anthony Fok <foka@debian.org>  Fri, 26 Apr 2024 02:59:32 -0600
+
+golang-golang-x-term (0.18.0-1) unstable; urgency=medium
+
+  * New upstream version 0.18.0
+  * Bump versioned dependency as per go.mod
+
+ -- Anthony Fok <foka@debian.org>  Sun, 24 Mar 2024 17:50:12 -0600
+
+golang-golang-x-term (0.17.0-1) unstable; urgency=medium
+
+  * New upstream version 0.17.0
+  * Bump versioned dependency as per go.mod
+
+ -- Anthony Fok <foka@debian.org>  Fri, 23 Feb 2024 19:28:03 -0700
+
+golang-golang-x-term (0.16.0-1) unstable; urgency=medium
+
+  * New upstream version 0.16.0
+  * Bump versioned dependency as per go.mod
+
+ -- Anthony Fok <foka@debian.org>  Mon, 29 Jan 2024 14:34:03 -0700
+
+golang-golang-x-term (0.15.0-1) unstable; urgency=medium
+
+  * New upstream version 0.15.0
+  * Bump versioned dependency as per go.mod
+
+ -- Anthony Fok <foka@debian.org>  Thu, 07 Dec 2023 01:56:59 -0700
+
 golang-golang-x-term (0.13.0-1) unstable; urgency=medium
 
   * New upstream version 0.13.0
